@@ -1,4 +1,4 @@
-# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm XDUCK</p>
+# <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm XDUCK🦆</p>
 **About Me**
 
 <a href="www.linkedin.com/in/nhanduc">
@@ -10,12 +10,13 @@
 <a href="https://www.facebook.com/levinhnhanduc">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47r0ddrebyvbo4pgxpk5x3u9d6sf1hjlj8krh0e3gi&rid=giphy.gif&ct=g">
 
 <br/>
 <br/>
 
 - 🔭 I’m currently working on Enouvo
+- 📟 I’m currently a GDSC-DUT community leader
 - 🌱 I’m currently learning Reactjs, Flutter
 -->
 
