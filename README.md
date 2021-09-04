@@ -15,11 +15,14 @@
 <br/>
 <br/>
 
+
 - 🔭 I’m currently working on Enouvo
 - 📟 I’m currently a GDSC-DUT community leader
 - 🌱 I’m currently learning Reactjs, Flutter
 -->
 
+##### Checkout my game:
+- <a href="https://lvxduck.github.io/EasterEgg_Demo/"> EasterEgg</a>
 
 ##### Languages I have used
 
