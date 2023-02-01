@@ -1,5 +1,8 @@
 # <p align="center"> **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm XDUCK🦆</p>
+
 **About Me**
+
+![](https://komarev.com/ghpvc/?username=lvxduck&label=PROFILE+VIEWS)
 
 <a href="www.linkedin.com/in/nhanduc">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
