@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=lvxduck&label=PROFILE+VIEWS)
 
 <a href="www.linkedin.com/in/nhanduc">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Xduck's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/lvxduck">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Xduck's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/levinhnhanduc">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Xduck's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47r0ddrebyvbo4pgxpk5x3u9d6sf1hjlj8krh0e3gi&rid=giphy.gif&ct=g">
 
@@ -20,8 +20,8 @@
 
 
 - 🔭 I’m currently working on Enouvo
-- 📟 I’m currently a GDSC-DUT community leader
-- 🌱 I’m currently learning Reactjs, Flutter
+- 📟 I'm a former community leader of GDSC-DUT
+- 🌱 I’m currently learning Flutter, NodeJs
 -->
 
 ##### Checkout my game:
